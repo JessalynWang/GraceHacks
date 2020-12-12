@@ -1,3 +1,2 @@
-# GraceHacks
-Repo for the GraceHacks project
-was for gracehacks but we ended up using something else for the project, so this is probably gonna be a repo for a react version of my personal website
+# personal web
+Was for gracehacks but we ended up using something else for the project, so this is now a repo for a react version of my personal website. Still technically a WIP because of design choices I want to play with.
