@@ -1,2 +1,2 @@
 # personal web
-Was for gracehacks but we ended up using something else for the project, so this is now a repo for a react version of my personal website. Still technically a WIP because of design choices I want to play with.
+A repo for a react version of my personal website. Still a WIP because of design choices I want to play with and new additions I am debating adding, but it is completely functional and ready to be released.
